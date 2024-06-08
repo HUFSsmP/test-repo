@@ -5,3 +5,5 @@ Touched by seminlP
 import sys
 from PyQt5.QtWidgets import*
 from PyQt5.QtFui import*
+
+# 수정하기
